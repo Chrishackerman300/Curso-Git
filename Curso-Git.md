@@ -338,4 +338,4 @@ Este comando sirve para mandar a nuestro repositorio todos nuestros archivos cre
 git push -u origin main
 ```
 
-Curso creado por **Christian Ivan Mendoza Ramirez**.
+## Curso creado por **Christian Ivan Mendoza Ramirez**.
